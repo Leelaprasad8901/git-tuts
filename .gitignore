@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 *.exe
 *.java*.exe
@@ -88,3 +89,7 @@
 *.java*.exe
 *.java*.exe
 *.java
+=======
+*.java
+*.exe
+>>>>>>> origin/main
