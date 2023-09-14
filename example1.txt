@@ -1,1 +1,3 @@
-Hello changes done through dev3 now only.
+Hello changes done through dev3 now only.I am modifying through cat command
+
+kindly add new changes
