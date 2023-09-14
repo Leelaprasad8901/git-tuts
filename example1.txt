@@ -1,3 +1,1 @@
-Hello changes done through dev3 now only.I am modifying through cat command
-
-kindly add new changes
+Hello Everyonesdev1 is changing the example1.txt file again
